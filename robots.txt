@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-qib7rn.indosattoto7brl.cfd/sitemap.xml
